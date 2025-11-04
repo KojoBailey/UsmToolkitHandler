@@ -13,6 +13,4 @@ As of v1.1.0, you can customise the flags used in the conversion process, with t
 
 To customise the flags you want, open `config.json` and look for the `flags` property. If it doesn't yet exist, the handler will automatically add it when you run it for the first time with a file. To disable all flags, just leave the value as a blank `""`.
 
-If there's anything else you'd like to see from this handler, let me know somehow (you can message me on Discord @`kojobailey`).
-
 ![image](https://github.com/KojoBailey/UsmToolkitHandler/assets/50509420/38ee5a12-61c9-4db0-8758-933377463084)
